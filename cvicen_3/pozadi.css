@@ -1,0 +1,40 @@
+
+h1 {
+    color: darkred;
+    text-align: center;
+    font-style: italic;
+    font-weight: 500;
+}
+#p1{
+    font-family: "Times New Roman", Times, fantasy;
+    color:white;
+    margin: inherit;
+   
+}
+
+#p2{
+    font-family: "Times New Roman", Times, fantasy;
+    color: black;
+    font-size: 2em;
+}
+#obsah {
+    width: 80%;
+    margin: auto; //centruje div
+    background-color: cadetblue;
+    padding: 50px;
+    border-style: solid;
+    border-radius: 30px;
+    box-shadow: 4px 18px 20px red;
+}
+#obsah2 {
+    width: 80%;
+    height: 200 px;
+    margin: auto; //centruje div
+    background-color: cadetblue;
+    border-style: solid;
+    border-radius: 30px;
+   // box-shadow: 4px 18px 20px red;
+}
+#tlacitko1 {
+    margin: auto;
+}
